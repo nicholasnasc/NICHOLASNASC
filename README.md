@@ -16,8 +16,6 @@
 
 </br>
 
-<img align="left" height="200" src="https://media.discordapp.net/attachments/872906742206464096/970361150556504174/nick.png"/>
-
 Olá, muito prazer! Sou **Nickolas**, mas pode me chamar de **Nick** ou **Nickzin**.
 
 Sou um Desenvolvedor de 17 anos, adoro criar aplicações utilizando <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"> **JavaScript**, gravo uns video pra internet nas horas vagas e posto no <img src="https://acordeiqueroviajar.com.br/wp-content/uploads/2017/12/youtube-logo.png" width="20px"> **YouTube**, e um proplayer quando o assunto é 🎮 **videogame**.
