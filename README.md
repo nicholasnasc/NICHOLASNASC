@@ -32,7 +32,7 @@ Sou um Desenvolvedor de 17 anos, adoro criar aplicações utilizando <img src="h
 <br>
 **Hylex** <a target="_blank" href="https://hylex.net">
   <img align="left" alt="Hylex-Logo" width="30px" src="https://loja.hylex.net/logo.png"/>
-</a> - Um dos maiores servidores brasileiros de Minecraft. 
+</a> - <center>Um dos maiores servidores brasileiros de Minecraft.</center>
 
 
 ## Minhas Tecnologias
