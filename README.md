@@ -1,20 +1,22 @@
 ### 👋 Olá Mundo!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
 (Isso me dá uma grande nostalgia kk)
 
-<a target="_blank" style="color: white" href="https://www.youtube.com/nickzin">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+<a target="_blank" href="https://www.youtube.com/nickzin">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
 </a>
 <a target="_blank" style="color: white" href="https://www.instagram.com/nickolas_nasc">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
 </a>
 <a target="_blank" style="color: white" href="https://discord.com/invite/CvxevT5">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
 </a>
 <a target="_blank" style="color: white" href="mailto:nickolaspessoalnasc@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
 </br>
+
+---
 
 Olá, muito prazer! Sou **Nickolas**, mas pode me chamar de **Nick** ou **Nickzin**.
 
