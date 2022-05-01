@@ -16,7 +16,7 @@
 
 </br>
 
-<img align="left" height="220" src="https://media.discordapp.net/attachments/872906742206464096/970361150556504174/nick.png"/>
+<img align="left" height="200" src="https://media.discordapp.net/attachments/872906742206464096/970361150556504174/nick.png"/>
 
 Olá, muito prazer! Sou **Nickolas**, mas pode me chamar de **Nick** ou **Nickzin**.
 
