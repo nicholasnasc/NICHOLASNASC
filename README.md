@@ -1,4 +1,5 @@
 ### 👋 Olá Mundo!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
+(Isso me dá uma grande nostalgia kk)
 
 <a target="_blank" href="https://www.youtube.com/nickzin">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
@@ -28,29 +29,29 @@ Sou um Desenvolvedor de 17 anos, adoro criar aplicações utilizando <img src="h
 **DisCloud** <a target="_blank" href="https://discloud.app">
   <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
 </a> - Serviço de hospedagem gratuita para Bots Discord e WebSites.
-
 **Hylex** <a target="_blank" href="https://hylex.net">
   <img align="left" alt="Hylex-Logo" width="33px" src="https://hylex.net/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Flogo.2cc0d324b5326cae8d462a0f7932c39f.png&w=96&q=75"/>
 </a> - Um dos maiores servidores brasileiros de Minecraft.
 
+---
 
 ## Minhas Tecnologias
 
 **Front-end**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,html,css,bootstrap,tailwind,js,ts,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,html,css,bootstrap,tailwind,js,ts,jquery)](https://nickzin.dev)
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,js,ts,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,js,ts,laravel)](https://nickzin.dev)
 
 **Banco de Dados**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://nickzin.dev)
 
 **Outras Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,lua,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,lua,ruby)](https://nickzin.dev)
 
 ---
 
