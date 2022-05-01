@@ -17,7 +17,7 @@
 </br>
 
 ---
-<img align="left" height="220" src="https://cdn.discordapp.com/attachments/752212575688720384/759591413360361492/sp3_bglessx4.png"/>
+<img align="left" height="220" src="https://media.discordapp.net/attachments/872906742206464096/970369258536194118/sp3_bglessx4.png"/>
 
 Olá, muito prazer! Sou **Nickolas**, mas pode me chamar de **Nick** ou **Nickzin**.
 
@@ -26,13 +26,13 @@ Sou um Desenvolvedor de 17 anos, adoro criar aplicações utilizando <img src="h
 ---
 
 ### **Projetos que estou envolvido:**
-**Hylex** <a target="_blank" href="https://hylex.net">
-  <img align="left" alt="Hylex-Logo" width="30px" src="https://loja.hylex.net/logo.png"/>
-</a> - Um dos maiores servidores brasileiros de Minecraft. 
-<br><br>
 **DisCloud** <a target="_blank" href="https://discloud.app">
   <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
 </a> - Serviço de hospedagem gratuita para Bots Discord e WebSites. 
+<br><br>
+**Hylex** <a target="_blank" href="https://hylex.net">
+  <img align="left" alt="Hylex-Logo" width="30px" src="https://loja.hylex.net/logo.png"/>
+</a> - Um dos maiores servidores brasileiros de Minecraft. 
 
 
 ## Minhas Tecnologias
