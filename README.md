@@ -5,13 +5,13 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
 </a>
 <a target="_blank" style="color: white" href="https://www.instagram.com/nickolas_nasc">
-  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
+  <img align="left" alt="Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
 </a>
 <a target="_blank" style="color: white" href="https://discord.com/invite/CvxevT5">
   <img align="left" alt="Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
 </a>
 <a target="_blank" style="color: white" href="mailto:nickolaspessoalnasc@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
+  <img align="left" alt="Gmail" width="20px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
 </br>
