@@ -28,9 +28,10 @@ Sou um Desenvolvedor de 17 anos, adoro criar aplicações utilizando <img src="h
 
 **DisCloud** <a target="_blank" href="https://discloud.app">
   <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
-</a> - Serviço de hospedagem gratuita para Bots Discord e WebSites.
+</a> - Serviço de hospedagem gratuita para Bots Discord e WebSites. 
+<br>
 **Hylex** <a target="_blank" href="https://hylex.net">
-  <img align="left" alt="Hylex-Logo" width="33px" src="https://hylex.net/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Flogo.2cc0d324b5326cae8d462a0f7932c39f.png&w=96&q=75"/>
+  <img align="left" alt="Hylex-Logo" width="33px" src="https://hylex.net/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Flogo.2cc0d324b5326cae8d462a0f7932c39f.png"/>
 </a> - Um dos maiores servidores brasileiros de Minecraft.
 
 ---
