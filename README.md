@@ -1,4 +1,4 @@
-### 👋 Olá Mundo! Amigo da vizinhança tá na área XD  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
+### 👋 Olá Mundo! Desenvolvedor da vizinhança tá na área. <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
 (Isso me dá uma grande nostalgia kk)
 
 <a target="_blank" href="https://www.youtube.com/nickzin">
