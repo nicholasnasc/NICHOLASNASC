@@ -1,16 +1,16 @@
 ### 👋 Olá Mundo!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
 (Isso me dá uma grande nostalgia kk)
 
-<a target="_blank" href="https://www.youtube.com/nickzin">
+<a target="_blank" style="color: white" href="https://www.youtube.com/nickzin">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/nickolas_nasc">
+<a target="_blank" style="color: white" href="https://www.instagram.com/nickolas_nasc">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="https://discord.com/invite/CvxevT5">
+<a target="_blank" style="color: white" href="https://discord.com/invite/CvxevT5">
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
 </a>
-<a target="_blank" href="mailto:nickolaspessoalnasc@gmail.com">
+<a target="_blank" style="color: white" href="mailto:nickolaspessoalnasc@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
