@@ -46,7 +46,7 @@ Sou um Desenvolvedor de 17 anos, adoro criar aplicações utilizando <img src="h
 
 **Outras Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,lua,ruby)](https://nickzin.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,lua,ruby,java)](https://nickzin.dev)
 
 ---
 
