@@ -31,7 +31,7 @@ Sou um Desenvolvedor de 17 anos, adoro criar aplicações utilizando <img src="h
 </a> - Serviço de hospedagem gratuita para Bots Discord e WebSites. 
 <br>
 **Hylex** <a target="_blank" href="https://hylex.net">
-  <img align="left" alt="Hylex-Logo" width="33px" src="https://hylex.net/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Flogo.2cc0d324b5326cae8d462a0f7932c39f.png"/>
+  <img align="left" alt="Hylex-Logo" width="33px" src="https://loja.hylex.net/logo.png"/>
 </a> - Um dos maiores servidores brasileiros de Minecraft.
 
 ---
