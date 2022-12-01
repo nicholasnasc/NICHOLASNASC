@@ -26,7 +26,7 @@ Sou um Desenvolvedor de 17 anos, adoro criar aplicações utilizando <img src="h
 ---
 
 ### **Projetos que estou envolvido:**
-**DisCloud** <a target="_blank" href="https://discloud.app">
+<a target="_blank" href="https://discloud.app">**DisCloud** 
   <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
 </a> - Serviço de hospedagem gratuita para Bots Discord e WebSites.
 
