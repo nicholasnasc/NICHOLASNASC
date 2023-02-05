@@ -1,4 +1,4 @@
-### 👋 **const** oi = Hello // console.log(const, 'World!') - Desenvolvedor da vizinhança tá na área.
+### 👋 **const** oi = Hello // console.log(oi, 'World!') - Desenvolvedor da vizinhança tá na área.
 (Isso me dá uma grande nostalgia kk)
 
 <a target="_blank" href="https://www.youtube.com/nickzin">
