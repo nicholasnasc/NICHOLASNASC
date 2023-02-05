@@ -34,19 +34,19 @@ Sou um Desenvolvedor Front-end de 18 anos, adoro criar aplicações utilizando <
 
 **Front-end**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,html,css,bootstrap,tailwind,js,ts,jquery)](https://nickzin.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,react,nextjs,angular,html,css,bootstrap,js,vuejs)](https://nickolas.discloud.app/)
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,js,ts,laravel)](https://nickzin.dev)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://nickolas.discloud.app/)
 
 **Banco de Dados**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://nickzin.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nosql)](https://nickolas.discloud.app/)
 
 **Outras Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,lua,ruby,java)](https://nickzin.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,python)](https://nickolas.discloud.app/)
 
 ---
 
