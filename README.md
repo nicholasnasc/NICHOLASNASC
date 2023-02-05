@@ -1,13 +1,13 @@
-### 👋 Olá Mundo! Desenvolvedor da vizinhança tá na área.
+### 👋 **const** oi = Hello // console.log(const, 'World!') - Desenvolvedor da vizinhança tá na área.
 (Isso me dá uma grande nostalgia kk)
 
 <a target="_blank" href="https://www.youtube.com/nickzin">
   <img align="left" alt="LinkdeIN" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
 </a>
-<a target="_blank" style="color: white" href="https://www.instagram.com/nickolas_nasc">
+<a target="_blank" style="color: white" href="https://www.instagram.com/nicholas_nasc">
   <img align="left" alt="Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
 </a>
-<a target="_blank" style="color: white" href="https://discord.com/invite/CvxevT5">
+<a target="_blank" style="color: white" href="https://discord.com/invite/rktxF6hgYg">
   <img align="left" alt="Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
 </a>
 <a target="_blank" style="color: white" href="mailto:nickolaspessoalnasc@gmail.com">
@@ -21,7 +21,7 @@
 
 Olá, muito prazer! Sou **Nickolas**, mas pode me chamar de **Nick** ou **Nickzin**.
 
-Sou um Desenvolvedor de 17 anos, adoro criar aplicações utilizando <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"> **JavaScript**, gravo uns video pra internet nas horas vagas e posto no <img src="https://acordeiqueroviajar.com.br/wp-content/uploads/2017/12/youtube-logo.png" width="20px"> **YouTube**, e um proplayer quando o assunto é 🎮 **videogame**.
+Sou um Desenvolvedor Front-end de 18 anos, adoro criar aplicações utilizando <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"> **JavaScript**, gravo uns video pra internet nas horas vagas e posto no <img src="https://acordeiqueroviajar.com.br/wp-content/uploads/2017/12/youtube-logo.png" width="20px"> **YouTube**, e um proplayer quando o assunto é 🎮 **videogame**.
 
 ---
 
