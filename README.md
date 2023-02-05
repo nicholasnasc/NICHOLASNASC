@@ -17,7 +17,7 @@
 </br>
 
 ---
-<img align="left" height="220" src="https://media.discordapp.net/attachments/872906742206464096/970369258536194118/sp3_bglessx4.png"/>
+<img align="left" height="220" src="https://media.discordapp.net/attachments/1051262113093533796/1071829828329816225/shape-4.png"/>
 
 Olá, muito prazer! Sou **Nickolas**, mas pode me chamar de **Nick** ou **Nickzin**.
 
