@@ -17,9 +17,15 @@
 ---
 <img align="left" height="220" src="https://ipfs.bluemove.net/uploads/cdn-image/bafybeic4mffprnutkplnr3ohwybvvfbrnq6nddde6qpnhzmacx6ipy6btm-266.png"/>
 
-<img  width="16px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/460930/756e4e1e8d379dc4b3f0286473599af1b8a359da.png"> Eae, bão? Meu nome é Nicolas com **H**, sou Global no **Counter-Strike 2** e curto fazer uns programas.
+Eae, bão? Meu nome é Nicolas com **H**, sou Global no **Counter-Strike 2** e curto fazer uns programas.
 
 Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápido possível. Tenho 20 anos, faço algumas aplicações pra uso pessoal, de vez em quando vendo algumas coisas aí, de vez ou outra gravo uns vídeos pra internet, quando tenho tempo e meu maior foco agora é me tornar independente.
+
+## Medalhas
+
+<img  width="16px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/460930/756e4e1e8d379dc4b3f0286473599af1b8a359da.png"> 
+<img  width="16px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/460930/756e4e1e8d379dc4b3f0286473599af1b8a359da.png"> 
+<img  width="16px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/460930/756e4e1e8d379dc4b3f0286473599af1b8a359da.png"> 
 </br>
 
 ---
