@@ -47,10 +47,14 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 
 **Banco de Dados**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nosql,firebird)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nosql,firebase)](https://nickolas.discloud.app/)
 
 **Outras Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,python,dart)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,python)](https://nickolas.discloud.app/)
+
+**Ferramentas**
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,webflow)](https://nickolas.discloud.app/)
 
 
