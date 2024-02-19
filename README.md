@@ -17,7 +17,7 @@
 </br>
 
 ---
-<img align="left" height="220" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/730/400f2cdf69db174f5616038edbb7a3f8e917ae00.png"/>
+<img align="left" height="220" src="https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBBhx8zecC9L7dKinc7Sk6-gMOzUkjkF7sN10-qT9t2tiwey-xFlZm-hdo7AJFA5NwrR_Qft366x0nrMfvEt/96fx96f"/>
 
 Olá, muito prazer! Sou **Nickolas**, mas pode me chamar de **Nick** ou **Nickzin**.
 
