@@ -43,11 +43,11 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=php,dart,flutter)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=php,dart,flutter,sass)](https://nickolas.discloud.app/)
 
 **Banco de Dados**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nosql,firebase)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://nickolas.discloud.app/)
 
 **Outras Tecnologias**
 
