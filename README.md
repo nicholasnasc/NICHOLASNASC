@@ -18,13 +18,17 @@
 ---
 <img align="left" height="220" src="https://ipfs.bluemove.net/uploads/cdn-image/bafybeic4mffprnutkplnr3ohwybvvfbrnq6nddde6qpnhzmacx6ipy6btm-266.png"/>
 
-Olá, muito prazer! Sou **Nickolas**, mas pode me chamar de **Nick** ou **Nickzin**.
+Eae, bão? Meu nome é Nicolas com **H**, sou Global no **Counter-Strike 2** e curto fazer uns programas.
 
-Sou um Desenvolvedor Front-end de 18 anos, adoro criar aplicações utilizando <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"> **JavaScript**, gravo uns video pra internet nas horas vagas e posto no <img src="https://acordeiqueroviajar.com.br/wp-content/uploads/2017/12/youtube-logo.png" width="20px"> **YouTube**, e um proplayer quando o assunto é 🎮 **videogame**.
+Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápido possível. Tenho 20 anos, faço algumas aplicações pra uso pessoal, de vez em quando vendo algumas coisas aí, de vez ou outra gravo uns vídeos pra internet, quando tenho tempo e meu maior foco agora é me tornar independente.
 
 ---
 
 ### **Projetos que estou envolvido:**
+<a target="_blank" href="https://discloud.app">**DisCloud** 
+  <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
+</a> - Serviço de hospedagem gratuita para Bots Discord e WebSites.
+
 <a target="_blank" href="https://discloud.app">**DisCloud** 
   <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
 </a> - Serviço de hospedagem gratuita para Bots Discord e WebSites.
