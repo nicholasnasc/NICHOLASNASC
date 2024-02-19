@@ -21,7 +21,7 @@ Eae, bão? Meu nome é Nicolas com **H**, sou Global no **Counter-Strike 2** e c
 
 Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápido possível. Tenho 20 anos, faço algumas aplicações pra uso pessoal, de vez em quando vendo algumas coisas aí, de vez ou outra gravo uns vídeos pra internet, quando tenho tempo e meu maior foco agora é me tornar independente.
 
-<img  width="64px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/730/400f2cdf69db174f5616038edbb7a3f8e917ae00.png"> <img  width="64px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/460930/756e4e1e8d379dc4b3f0286473599af1b8a359da.png"> <img  width="64px" src="https://community.akamai.steamstatic.com/public/images/badges/01_community/communityleader_80.png">  </br>
+<img  width="64px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/730/400f2cdf69db174f5616038edbb7a3f8e917ae00.png"> <img  width="64px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/460930/756e4e1e8d379dc4b3f0286473599af1b8a359da.png"> <img  width="64px" src="https://community.akamai.steamstatic.com/public/images/badges/01_community/communityleader_80.png"><img  width="64px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/230410/72f45e297c9705eec69b77b0274d2f7907615e32.png"><img  width="64px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1449850/d46b8326c8f0d0bb727ac1748f9deffb271af917.png"> </br>
 
 ---
 
@@ -32,7 +32,7 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 
 <a target="_blank" href="https://fiorilli.com.br/">**Fiorilli** 
   <img align="left" alt="Fiorilli-logo" width="33px" src="https://fiorilli.com.br/wp-content/uploads/2016/07/cropped-logo_512x512-32x32.png"/>
-</a> - Distribuidor de Software para o setor público.
+</a> - Distribuidor de software para soluções corporativas voltadas à administração pública.
 
 ## Minhas Tecnologias
 
