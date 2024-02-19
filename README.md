@@ -25,8 +25,8 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 ---
 
 </br>
-<img align="left" alt="global" width="32px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/730/400f2cdf69db174f5616038edbb7a3f8e917ae00.png">
-### **Projetos que estou envolvido:**
+
+### <img align="left" alt="global" width="32px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/730/400f2cdf69db174f5616038edbb7a3f8e917ae00.png"> **Projetos que estou envolvido:**
 <a target="_blank" href="https://discloud.app/">**DisCloud** 
   <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
 </a> - Serviço de hospedagem gratuita para aplicações automatizáveis e sites.
