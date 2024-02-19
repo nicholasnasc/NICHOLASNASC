@@ -1,5 +1,4 @@
-### 👋 **const** oi = Hello // console.log(oi, 'World!') - Desenvolvedor da vizinhança tá na área.
-(Isso me dá uma grande nostalgia kk)
+### 👋 **const** oi = Hello // console.log(oi, 'World!')
 
 <a target="_blank" href="https://www.youtube.com/nickzin">
   <img align="left" alt="LinkdeIN" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
