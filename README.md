@@ -24,6 +24,8 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 
 ---
 
+</br>
+
 ### **Projetos que estou envolvido:**
 <a target="_blank" href="https://discloud.app/">**DisCloud** 
   <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
