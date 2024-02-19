@@ -13,8 +13,6 @@
   <img align="left" alt="Gmail" width="20px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
-</br>
-
 ---
 <img align="left" height="220" src="https://ipfs.bluemove.net/uploads/cdn-image/bafybeic4mffprnutkplnr3ohwybvvfbrnq6nddde6qpnhzmacx6ipy6btm-266.png"/>
 
