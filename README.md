@@ -48,8 +48,4 @@ Sou um Desenvolvedor Front-end de 18 anos, adoro criar aplicações utilizando <
 
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,python)](https://nickolas.discloud.app/)
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rhuangabrielsantos/rhuangabrielsantos/output/github-contribution-grid-snake.svg" />
-</p>
