@@ -22,7 +22,7 @@ Eae, bão? Meu nome é Nicolas com **H**, sou Global no **Counter-Strike 2** e c
 
 Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápido possível. Tenho 20 anos, faço algumas aplicações pra uso pessoal, de vez em quando vendo algumas coisas aí, de vez ou outra gravo uns vídeos pra internet, quando tenho tempo e meu maior foco agora é me tornar independente.
 
-<br>
+</br></br>
 
 ---
 
