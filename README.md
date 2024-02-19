@@ -12,14 +12,13 @@
 <a target="_blank" style="color: white" href="mailto:nickolaspessoalnasc@gmail.com">
   <img align="left" alt="Gmail" width="20px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
-
+</br>
 ---
 <img align="left" height="220" src="https://ipfs.bluemove.net/uploads/cdn-image/bafybeic4mffprnutkplnr3ohwybvvfbrnq6nddde6qpnhzmacx6ipy6btm-266.png"/>
 
 Eae, bão? Meu nome é Nicolas com **H**, sou Global no **Counter-Strike 2** e curto fazer uns programas.
 
 Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápido possível. Tenho 20 anos, faço algumas aplicações pra uso pessoal, de vez em quando vendo algumas coisas aí, de vez ou outra gravo uns vídeos pra internet, quando tenho tempo e meu maior foco agora é me tornar independente.
-
 </br>
 
 ---
