@@ -39,18 +39,18 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 
 **Front-end**
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,react,nextjs,angular,html,css,bootstrap,js,vuejs)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=svelte,html,css,bootstrap,js,vuejs)](https://nickolas.discloud.app/)
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=php)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=php,dart,flutter)](https://nickolas.discloud.app/)
 
 **Banco de Dados**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nosql)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nosql,firebird)](https://nickolas.discloud.app/)
 
 **Outras Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,python)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,python,dart)](https://nickolas.discloud.app/)
 
 
