@@ -17,7 +17,7 @@
 </br>
 
 ---
-<img align="left" height="220" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1716740/5c9d1755fe58b54c3efa4ae5a37269420b685e91.gif"/>
+<img align="left" height="220" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/730/400f2cdf69db174f5616038edbb7a3f8e917ae00.png"/>
 
 Olá, muito prazer! Sou **Nickolas**, mas pode me chamar de **Nick** ou **Nickzin**.
 
