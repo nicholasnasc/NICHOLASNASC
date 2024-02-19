@@ -30,7 +30,7 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 </a> - Serviço de hospedagem gratuita para aplicações automatizáveis e sites.
 
 <a target="_blank" href="https://fiorilli.com.br/">**Fiorilli** 
-  <img align="left" alt="Fiorilli-logo" width="33px" src="https://fiorilli.com.br/wp-content/uploads/2016/07/logotopo.png"/>
+  <img align="left" alt="Fiorilli-logo" width="33px" src="https://fiorilli.com.br/wp-content/uploads/2016/07/cropped-logo_512x512-32x32.png"/>
 </a> - Distribuidor de Software para o setor público.
 
 ## Minhas Tecnologias
