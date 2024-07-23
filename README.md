@@ -1,7 +1,7 @@
 ### 👋 **puts** "Olá mundo!" `ola_mundo.rb`
 
 <a target="_blank" href="https://nickzin.com/">
-  <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/Nickz1n/nickzin-website/main/static/images/pwa/favicon2.png?token=GHSAT0AAAAAACUCT7HSE5DF3FEKN4IW2CVWZU75YFQ"/>
+  <img align="left" alt="YouTube" width="22px" src="https://media.discordapp.net/attachments/786743851674632252/1265369952232280186/favicon2.png?ex=66a1431a&is=669ff19a&hm=b9d7da92991109c6bf0206f658ff6d66ec7ff7b2b99244a3872f0510b8bc5306&=&format=webp"/>
 </a>
 <a target="_blank" href="https://www.youtube.com/nickzin">
   <img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
@@ -64,6 +64,7 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,vercel,webflow,photoshop,illustrator,aftereffects,webpack,wordpress,kubernetes,bash,eclipse)](https://nickzin.com/)
 
 **Bibliotecas**
+
 [![My Skills](https://skillicons.dev/icons?i=discordjs,dotnet,coffeescript,fastapi,gatsby,jquery)](https://nickzin.com/)
 
 
