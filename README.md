@@ -49,7 +49,7 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=c,c#,js,ruby,php,dart,flutter,sass,css,laravel)](https://nickzin.com/)
+[![My Skills](https://skillicons.dev/icons?i=c,js,ruby,php,dart,flutter,sass,css,laravel)](https://nickzin.com/)
 
 **Banco de Dados**
 
