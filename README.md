@@ -1,7 +1,7 @@
-### 👋 **puts** "Olá mundo" `ola_mundo.rb`
+### 👋 **puts** "Olá mundo!" `ola_mundo.rb`
 
 <a target="_blank" href="https://www.youtube.com/nickzin">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
+  <img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
 </a>
 <a target="_blank" style="color: white" href="https://www.instagram.com/nicholas_nasc">
   <img align="left" alt="Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
@@ -15,7 +15,7 @@
 </br>
 
 ---
-<img align="left" height="220" src="https://ipfs.bluemove.net/uploads/cdn-image/bafybeic4mffprnutkplnr3ohwybvvfbrnq6nddde6qpnhzmacx6ipy6btm-266.png"/>
+<img align="left" height="220" src="https://lh3.googleusercontent.com/pw/AP1GczMjfUTIJ4E8-sJjo98qmo_Dy24uy0YV0RZ6XZ95-zcqwEa4ZnP1__IClQ7CsXtGT2E5ftd-IcsuXpX5ctvvRBleTsy2MCYyVjRCnYuW-eo4BeNo1G8WcCKS_-OZq5dtRU9V4OScwV8MghNmsq9wAAuD=w466-h607-s-no-gm?authuser=0"/>
 
 Eae, bão? Meu nome é Nicolas com **H**, sou Global no **Counter-Strike 2** e curto fazer uns programas.
 
