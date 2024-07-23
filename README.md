@@ -35,7 +35,7 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 </a> - Distribuidor de software para soluções corporativas voltadas à administração pública.
 
 <a target="_blank" href="https://hylex.gg/">**Hylex** 
-  <img align="left" alt="Hylex-Logo" width="33px" src="https://hylex.gg/cdn/shop/files/hylex-tiny.png?v=1683307225&width=90"/>
+  <img align="left" alt="Hylex-Logo" width="33px" src="https://i.imgur.com/UGHX6nl.png"/>
 </a> - Rede de servidores voltados a minigames para Minecraft.
 
 ## Minhas Tecnologias
