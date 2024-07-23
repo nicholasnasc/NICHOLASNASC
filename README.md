@@ -61,6 +61,6 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 
 **Ferramentas**
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,webflow,photoshop,webpack)](https://nickzin.com/)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,intellij,webflow,photoshop,illustrator,aftereffects,webpack)](https://nickzin.com/)
 
 
