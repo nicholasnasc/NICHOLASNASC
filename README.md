@@ -1,4 +1,4 @@
-### 👋 **const** oi = Hello // console.log(oi, 'World!')
+### 👋 **puts** "Olá mundo" `ola_mundo.rb`
 
 <a target="_blank" href="https://www.youtube.com/nickzin">
   <img align="left" alt="LinkdeIN" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
