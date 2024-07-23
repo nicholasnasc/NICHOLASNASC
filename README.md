@@ -26,13 +26,17 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 ---
 
 ### **Projetos que estou envolvido:**
-<a target="_blank" href="https://discloud.app/">**DisCloud** 
+<a target="_blank" href="https://discloud.app/">**Discloud** 
   <img align="left" alt="DisCloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
 </a> - Serviço de hospedagem gratuita para aplicações automatizáveis e sites.
 
 <a target="_blank" href="https://fiorilli.com.br/">**Fiorilli** 
   <img align="left" alt="Fiorilli-logo" width="33px" src="https://fiorilli.com.br/wp-content/uploads/2016/07/cropped-logo_512x512-32x32.png"/>
 </a> - Distribuidor de software para soluções corporativas voltadas à administração pública.
+
+<a target="_blank" href="https://hylex.gg/">**Hylex** 
+  <img align="left" alt="Hylex-Logo" width="33px" src="https://hylex.gg/cdn/shop/files/hylex-tiny.png?v=1683307225"/>
+</a> - Rede de servidores voltados a minigames para Minecraft.
 
 ## Minhas Tecnologias
 
