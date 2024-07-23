@@ -45,11 +45,11 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 
 **Front-end**
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,html,css,bootstrap,vuejs,angular)](https://nickzin.com/)
+[![My Skills](https://skillicons.dev/icons?i=svelte,html,bootstrap,vuejs,angular)](https://nickzin.com/)
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ruby,php,dart,flutter,sass,laravel)](https://nickzin.com/)
+[![My Skills](https://skillicons.dev/icons?i=js,ruby,php,dart,flutter,sass,css,laravel)](https://nickzin.com/)
 
 **Banco de Dados**
 
@@ -57,10 +57,10 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 
 **Outras Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,python,vite)](https://nickzin.com/)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,spring,python,vite,yarn)](https://nickzin.com/)
 
 **Ferramentas**
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,intellij,webflow,photoshop,illustrator,aftereffects,webpack)](https://nickzin.com/)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,vercel,webflow,photoshop,illustrator,aftereffects,webpack,wordpress)](https://nickzin.com/)
 
 
