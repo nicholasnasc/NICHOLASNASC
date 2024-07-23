@@ -45,22 +45,25 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 
 **Front-end**
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,html,bootstrap,vuejs,angular)](https://nickzin.com/)
+[![My Skills](https://skillicons.dev/icons?i=svelte,html,htmx,tailwind,bootstrap,vuejs,angular)](https://nickzin.com/)
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=c,js,ruby,php,dart,flutter,sass,css,laravel)](https://nickzin.com/)
+[![My Skills](https://skillicons.dev/icons?i=c,js,ruby,php,dart,flutter,sass,css,laravel,less,lua,nestjs)](https://nickzin.com/)
 
 **Banco de Dados**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://nickzin.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase,gradle)](https://nickzin.com/)
 
 **Outras Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,spring,python,vite,yarn)](https://nickzin.com/)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,figma,git,redis,java,spring,kotlin,python,vite,yarn,ts)](https://nickzin.com/)
 
 **Ferramentas**
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,vercel,webflow,photoshop,illustrator,aftereffects,webpack,wordpress)](https://nickzin.com/)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,vercel,webflow,photoshop,illustrator,aftereffects,webpack,wordpress,kubernetes,bash,eclipse)](https://nickzin.com/)
+
+**Bibliotecas**
+[![My Skills](https://skillicons.dev/icons?i=discordjs,dotnet,coffeescript,fastapi,gatsby,jquery)](https://nickzin.com/)
 
 
