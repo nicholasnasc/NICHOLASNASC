@@ -1,5 +1,8 @@
 ### 👋 **puts** "Olá mundo!" `ola_mundo.rb`
 
+<a target="_blank" href="https://nickzin.com/">
+  <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/Nickz1n/nickzin-website/main/static/images/pwa/favicon2.png?token=GHSAT0AAAAAACUCT7HSE5DF3FEKN4IW2CVWZU75YFQ"/>
+</a>
 <a target="_blank" href="https://www.youtube.com/nickzin">
   <img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
 </a>
@@ -42,22 +45,22 @@ Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápid
 
 **Front-end**
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,html,css,bootstrap,vuejs,angular)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=svelte,html,css,bootstrap,vuejs,angular)](https://nickzin.com/)
 
 **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ruby,php,dart,flutter,sass,laravel)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=js,ruby,php,dart,flutter,sass,laravel)](https://nickzin.com/)
 
 **Banco de Dados**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://nickzin.com/)
 
 **Outras Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,python,vite)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,python,vite)](https://nickzin.com/)
 
 **Ferramentas**
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,webflow,photoshop,webpack)](https://nickolas.discloud.app/)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,webflow,photoshop,webpack)](https://nickzin.com/)
 
 
