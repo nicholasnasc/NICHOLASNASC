@@ -1,7 +1,7 @@
 ### 👋 **puts** "Olá mundo!" `ola_mundo.rb`
 
 <a target="_blank" href="https://nickzin.com/">
-  <img align="left" alt="Site" width="24px" src="https://github.com/Nickz1n/nickz1n.github.io/blob/master/static/favicon.png"/>
+  <img align="left" alt="Site" width="24px" src="https://github.com/Nickz1n/Blog/blob/production/public/favicon.svg"/>
 </a>
 <a target="_blank" href="https://www.youtube.com/nickzin">
   <img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
