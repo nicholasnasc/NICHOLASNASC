@@ -1,70 +1,88 @@
-### 👋 **puts** "Olá mundo!" `ola_mundo.rb`
+<h1 align="center">puts "Olá mundo!" <code>ola_mundo.rb</code> 👋</h1>
 
-<a target="_blank" href="https://nickzin.com/">
-  <img align="left" alt="Site" width="24px" src="https://github.com/Nickz1n/Blog/blob/production/public/favicon.svg"/>
-</a>
-<a target="_blank" href="https://www.youtube.com/nickzin">
-  <img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />
-</a>
-<a target="_blank" style="color: white" href="https://www.instagram.com/nicholas_nasc">
-  <img align="left" alt="Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
-</a>
-<a target="_blank" style="color: white" href="https://discord.com/invite/rktxF6hgYg">
-  <img align="left" alt="Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
-</a>
-<a target="_blank" style="color: white" href="mailto:nickolaspessoalnasc@gmail.com">
-  <img align="left" alt="Gmail" width="20px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
-</a>
-</br>
-
----
-<img align="left" height="220" src="https://lh3.googleusercontent.com/pw/AP1GczMjfUTIJ4E8-sJjo98qmo_Dy24uy0YV0RZ6XZ95-zcqwEa4ZnP1__IClQ7CsXtGT2E5ftd-IcsuXpX5ctvvRBleTsy2MCYyVjRCnYuW-eo4BeNo1G8WcCKS_-OZq5dtRU9V4OScwV8MghNmsq9wAAuD=w466-h607-s-no-gm?authuser=0"/>
-
-Eae, bão? Meu nome é Nicolas com **H**, sou Global no **Counter-Strike 2** e curto fazer uns programas.
-
-Atualmente estou focado em projetos rentáveis e que me deixe rico o mais rápido possível. Tenho 20 anos, faço algumas aplicações pra uso pessoal, de vez em quando vendo algumas coisas aí, de vez ou outra gravo uns vídeos pra internet, quando tenho tempo e meu maior foco agora é me tornar independente.
-
-<img  width="52px" alt="Experiência Global" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/730/400f2cdf69db174f5616038edbb7a3f8e917ae00.png"> <img  width="56px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/460930/756e4e1e8d379dc4b3f0286473599af1b8a359da.png"> <img  width="52px" src="https://community.akamai.steamstatic.com/public/images/badges/01_community/communityleader_80.png"> <img  width="52px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/230410/72f45e297c9705eec69b77b0274d2f7907615e32.png"> <img  width="52px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1449850/d46b8326c8f0d0bb727ac1748f9deffb271af917.png"> <img  width="52px" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/238960/3bede0ec8efec359a599567a70283404112be245.png"> <img  width="52px" src="https://community.akamai.steamstatic.com/public/images/badges/02_years/steamyears8_80.png"> </br>
+<p align="center">
+  <a href="https://nickzin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions" height="25"/>
+  </a>
+  <a href="https://www.youtube.com/nickzin" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:nickolaspessoalnasc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/nicholas_nasc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/invite/rktxF6hgYg" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### **Projetos que estou envolvido:**
-<a target="_blank" href="https://discloud.app/">**Discloud** 
-  <img align="left" alt="Discloud-Logo" width="33px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4"/>
-</a> - Serviço de hospedagem gratuita para aplicações automatizáveis e sites.
+## 💡 Sobre Mim
 
-<a target="_blank" href="https://fiorilli.com.br/">**Fiorilli** 
-  <img align="left" alt="Fiorilli-logo" width="33px" src="https://fiorilli.com.br/wp-content/uploads/2016/07/cropped-logo_512x512-32x32.png"/>
-</a> - Distribuidor de software para soluções corporativas voltadas à administração pública.
+Sou o Nicolas com **H**, desenvolvedor apaixonado por tecnologia e automação. Tenho 20 anos, sou curioso por natureza e estou sempre em busca de projetos inovadores que unam **tecnologia e rentabilidade**.
 
-<a target="_blank" href="https://hylex.gg/">**Hylex** 
-  <img align="left" alt="Hylex-Logo" width="33px" src="https://i.imgur.com/UGHX6nl.png"/>
-</a> - Rede de servidores voltados a minigames para Minecraft.
+🚀 Atualmente focado em criar soluções que realmente resolvam problemas — e de preferência, me deixem rico rapidão. 😉  
+🧠 Stack Full Stack com inclinação para back-end, bots, automações e ferramentas web.  
+🎯 Buscando independência financeira com tecnologia de ponta.
 
-## Minhas Tecnologias
+---
 
-**Front-end**
+## ⚙️ Tecnologias que domino
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,html,htmx,tailwind,bootstrap,vuejs,angular)](https://nickzin.com/)
+### **Front-End**
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,vuejs,svelte,angular,htmx)](https://nickzin.com/)
 
-**Back-end**
+### **Back-End**
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,ruby,lua,nestjs,dotnet,java,kotlin,spring)](https://nickzin.com/)
 
-[![My Skills](https://skillicons.dev/icons?i=c,js,ruby,php,dart,flutter,sass,css,laravel,less,lua,nestjs)](https://nickzin.com/)
+### **Mobile / UI**
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,androidstudio)](https://nickzin.com/)
 
-**Banco de Dados**
+### **Banco de Dados**
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase)](https://nickzin.com/)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase,gradle)](https://nickzin.com/)
+### **DevOps / Cloud**
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,kubernetes,vercel,git,vite)](https://nickzin.com/)
 
-**Outras Tecnologias**
+### **Ferramentas**
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,webflow,photoshop,illustrator,aftereffects)](https://nickzin.com/)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,figma,git,redis,java,spring,kotlin,python,vite,yarn,ts)](https://nickzin.com/)
+---
 
-**Ferramentas**
+## 👨‍💻 Projetos em que estou envolvido
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,vercel,webflow,photoshop,illustrator,aftereffects,webpack,wordpress,kubernetes,bash,eclipse)](https://nickzin.com/)
+| Projeto | Descrição |
+|--------|-----------|
+| [**Discloud**](https://discloud.app/) | Plataforma de deploy para aplicações automatizadas e bots. |
+| [**Fiorilli**](https://fiorilli.com.br/) | Soluções para gestão pública e software empresarial. |
+| [**Hylex**](https://hylex.gg/) | Rede de servidores com minigames para Minecraft. |
 
-**Bibliotecas**
+---
 
-[![My Skills](https://skillicons.dev/icons?i=discordjs,dotnet,coffeescript,fastapi,gatsby,jquery)](https://nickzin.com/)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nickz1n&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickz1n&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 Atividade Recente
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nickz1n&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+## ✨ "Feito é melhor que perfeito."
+
+Se você também é apaixonado por dev, bots, automações e liberdade... então temos muito em comum. Bora criar?
+
+---
+
+📫 **Contato direto:** [nickolaspessoalnasc@gmail.com](mailto:nickolaspessoalnasc@gmail.com)  
+🌐 **Portfólio:** [nickzin.com](https://nickzin.com)
 
