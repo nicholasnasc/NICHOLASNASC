@@ -20,6 +20,19 @@
 
 ---
 
+## 📚 Menu
+
+- [💡 Sobre Mim](#💡-sobre-mim)
+- [⚙️ Tecnologias](#⚙️-tecnologias-que-domino)
+- [👨‍💻 Projetos](#👨‍💻-projetos-em-que-estou-envolvido)
+- [📜 Certificações](#📜-certificações)
+- [🎥 Vídeos Técnicos](#🎥-vídeos-técnicos)
+- [📊 GitHub Stats](#📊-github-stats)
+- [🔥 Atividade Recente](#🔥-atividade-recente)
+- [📫 Contato](#-contato-direto)
+
+---
+
 ## 💡 Sobre Mim
 
 Sou o Nicolas com **H**, desenvolvedor apaixonado por tecnologia e automação. Tenho 20 anos, sou curioso por natureza e estou sempre em busca de projetos inovadores que unam **tecnologia e rentabilidade**.
@@ -62,6 +75,32 @@ Sou o Nicolas com **H**, desenvolvedor apaixonado por tecnologia e automação. 
 
 ---
 
+## 📜 Certificações
+
+🎓 *Principais certificações que validam minha experiência técnica:*
+
+- ✅ **AWS Cloud Practitioner Essentials** – AWS Training & Certification  
+- ✅ **Desenvolvimento Web Moderno** – Udemy / Rocketseat  
+- ✅ **Docker Essentials** – Digital Innovation One  
+- ✅ **Git e GitHub na Prática** – Curso em Vídeo  
+- ✅ **Certificado em Spring Framework e Java Web** – Alura  
+- ✅ **CS50: Introduction to Computer Science** – Harvard (em andamento)
+
+---
+
+## 🎥 Vídeos Técnicos
+
+📹 Alguns conteúdos que produzi com foco em desenvolvimento e automações:
+
+- ▶️ [Criando Bots com Discloud](https://www.youtube.com/watch?v=SEULINKAQUI)
+- ▶️ [Como automatizar tarefas com JavaScript + Node.js](https://www.youtube.com/watch?v=SEULINKAQUI)
+- ▶️ [Desenvolvendo APIs REST com NestJS e MongoDB](https://www.youtube.com/watch?v=SEULINKAQUI)
+- ▶️ [Deploys automáticos com GitHub Actions](https://www.youtube.com/watch?v=SEULINKAQUI)
+
+> *Dica: personalize os links acima com os vídeos reais do seu canal ou futuros planejados.*
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,12 +116,13 @@ Sou o Nicolas com **H**, desenvolvedor apaixonado por tecnologia e automação. 
 
 ---
 
-## ✨ "Feito é melhor que perfeito."
+## 📫 Contato direto
 
-Se você também é apaixonado por dev, bots, automações e liberdade... então temos muito em comum. Bora criar?
+📩 nickolaspessoalnasc@gmail.com  
+🌐 [nickzin.com](https://nickzin.com)
 
 ---
 
-📫 **Contato direto:** [nickolaspessoalnasc@gmail.com](mailto:nickolaspessoalnasc@gmail.com)  
-🌐 **Portfólio:** [nickzin.com](https://nickzin.com)
+> "Feito é melhor que perfeito."  
+> *— alguém que entregou mais que prometeu.*
 
