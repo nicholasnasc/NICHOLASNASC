@@ -42,7 +42,7 @@
 
 ### **Database**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb,postgresql,firebase"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,json"/>
 </div>
 
 ### **Development Tools**
