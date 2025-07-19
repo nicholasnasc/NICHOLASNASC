@@ -75,17 +75,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicholasnasc&repo=PROJECT1&theme=github_dark)](https://github.com/nicholasnasc/PROJECT1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicholasnasc&repo=PROJECT2&theme=github_dark)](https://github.com/nicholasnasc/PROJECT2)
-
-</div>
-
----
-
 ## 📊 Activity Graph
 
 <div align="center">
