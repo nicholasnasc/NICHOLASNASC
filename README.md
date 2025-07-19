@@ -1,12 +1,12 @@
-<img style="width:100%;height:3px;" src="./bar.gif" />
+<img style="width:100%;height:3px;" src="./bar.gif"/>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;I'm+a+Full+Stack+Developer;Welcome+to+my+GitHub!" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOURUSERNAME?style=social">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/YOURUSERNAME?style=social">
+  <img src="https://komarev.com/ghpvc/?username=nicholasnasc&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/nicholasnasc?style=social">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/nicholasnasc?style=social">
 </div>
 
 ---
@@ -25,24 +25,29 @@
 
 ## 🛠️ Tech Stack
 
+### **Language Domain**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,javascript,typescript,dart,python,java,php,sql" />
+</div>
+
 ### **Frontend Development**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,typescript,javascript,html,css,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,html"/>
 </div>
 
 ### **Backend Development**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,nestjs,express,django,spring,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,spring,dotnet,flutter" />
 </div>
 
-### **Database & Cloud**
+### **Database**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb,postgresql,firebase"/>
 </div>
 
 ### **Development Tools**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,vscode,figma,postman,jetbrains" />
 </div>
 
 ---
@@ -60,12 +65,12 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholasnasc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasnasc&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasnasc&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
@@ -95,8 +100,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=PROJECT1&theme=github_dark)](https://github.com/YOURUSERNAME/PROJECT1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=PROJECT2&theme=github_dark)](https://github.com/YOURUSERNAME/PROJECT2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicholasnasc&repo=PROJECT1&theme=github_dark)](https://github.com/nicholasnasc/PROJECT1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicholasnasc&repo=PROJECT2&theme=github_dark)](https://github.com/nicholasnasc/PROJECT2)
 
 </div>
 
@@ -105,7 +110,7 @@
 ## 📊 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicholasnasc&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -132,4 +137,4 @@
 <div align="center">
   <sub>💡 <strong>Pro tip:</strong> Great code is like a good joke - if you have to explain it, it's probably not that good.</sub>
 </div>
-<img style="width:100%;height:3px;" src="./bar.gif" />
+<img style="width:100%;height:3px;" src="./bar.gif"/>
