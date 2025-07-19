@@ -1,128 +1,135 @@
-<h1 align="center">puts "Olá mundo!" <code>ola_mundo.rb</code> 👋</h1>
+<img style="width:100%;height:3px;" src="./bar.gif" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;I'm+a+Full+Stack+Developer;Welcome+to+my+GitHub!" />
+</div>
 
-<p align="center">
-  <a href="https://nickzin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=githubactions" height="25"/>
-  </a>
-  <a href="https://www.youtube.com/nickzin" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:nickolaspessoalnasc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/nicholas_nasc" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/invite/rktxF6hgYg" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOURUSERNAME?style=social">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/YOURUSERNAME?style=social">
+</div>
 
 ---
 
-## 📚 Menu
+## 🚀 About Me
 
-- [💡 Sobre Mim](#💡-sobre-mim)
-- [⚙️ Tecnologias](#⚙️-tecnologias-que-domino)
-- [👨‍💻 Projetos](#👨‍💻-projetos-em-que-estou-envolvido)
-- [📜 Certificações](#📜-certificações)
-- [🎥 Vídeos Técnicos](#🎥-vídeos-técnicos)
-- [📊 GitHub Stats](#📊-github-stats)
-- [🔥 Atividade Recente](#🔥-atividade-recente)
-- [📫 Contato](#-contato-direto)
+**Full Stack Developer** passionate about creating innovative solutions that bridge technology and real-world impact.
 
----
-
-## 💡 Sobre Mim
-
-Sou o Nicolas com **H**, desenvolvedor apaixonado por tecnologia e automação. Tenho 20 anos, sou curioso por natureza e estou sempre em busca de projetos inovadores que unam **tecnologia e rentabilidade**.
-
-🚀 Atualmente focado em criar soluções que realmente resolvam problemas — e de preferência, me deixem rico rapidão. 😉  
-🧠 Stack Full Stack com inclinação para back-end, bots, automações e ferramentas web.  
-🎯 Buscando independência financeira com tecnologia de ponta.
+- 🔭 Currently working on **scalable web applications and automation tools**
+- 🌱 Always learning **new technologies and best practices**
+- 💡 Focused on **clean code, performance optimization, and user experience**
+- 🎯 Building projects that **solve real problems and create value**
+- ⚡ Fun fact: **I believe the best code is the one that doesn't need comments**
 
 ---
 
-## ⚙️ Tecnologias que domino
+## 🛠️ Tech Stack
 
-### **Front-End**
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,vuejs,svelte,angular,htmx)](https://nickzin.com/)
+### **Frontend Development**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,typescript,javascript,html,css,tailwind,sass" />
+</div>
 
-### **Back-End**
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,ruby,lua,nestjs,dotnet,java,kotlin,spring)](https://nickzin.com/)
+### **Backend Development**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,nestjs,express,django,spring,dotnet" />
+</div>
 
-### **Mobile / UI**
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,figma,androidstudio)](https://nickzin.com/)
+### **Database & Cloud**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,docker,kubernetes" />
+</div>
 
-### **Banco de Dados**
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase)](https://nickzin.com/)
-
-### **DevOps / Cloud**
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,kubernetes,vercel,git,vite)](https://nickzin.com/)
-
-### **Ferramentas**
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,webflow,photoshop,illustrator,aftereffects)](https://nickzin.com/)
-
----
-
-## 👨‍💻 Projetos em que estou envolvido
-
-| Projeto | Descrição |
-|--------|-----------|
-| [**Discloud**](https://discloud.app/) | Plataforma de deploy para aplicações automatizadas e bots. |
-| [**Fiorilli**](https://fiorilli.com.br/) | Soluções para gestão pública e software empresarial. |
-| [**Hylex**](https://hylex.gg/) | Rede de servidores com minigames para Minecraft. |
+### **Development Tools**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+</div>
 
 ---
 
-## 📜 Certificações
+## 💼 Current Work
 
-🎓 *Principais certificações que validam minha experiência técnica:*
-
-- ✅ **AWS Cloud Practitioner Essentials** – AWS Training & Certification  
-- ✅ **Desenvolvimento Web Moderno** – Udemy / Rocketseat  
-- ✅ **Docker Essentials** – Digital Innovation One  
-- ✅ **Git e GitHub na Prática** – Curso em Vídeo  
-- ✅ **Certificado em Spring Framework e Java Web** – Alura  
-- ✅ **CS50: Introduction to Computer Science** – Harvard (em andamento)
+| Project | Role | Tech Stack | Status |
+|---------|------|------------|--------|
+| **Enterprise SaaS Platform** | Lead Developer | React, Node.js, MongoDB | 🚀 Live |
+| **AI-Powered Analytics Tool** | Full Stack | Python, FastAPI, React | 🔧 Development |
+| **Mobile Banking App** | Frontend Lead | React Native, TypeScript | 📱 Testing |
 
 ---
 
-## 🎥 Vídeos Técnicos
+## 📈 GitHub Analytics
 
-📹 Alguns conteúdos que produzi com foco em desenvolvimento e automações:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&langs_count=8&theme=github_dark"/>
+</div>
 
-- ▶️ [Criando Bots com Discloud](https://www.youtube.com/watch?v=SEULINKAQUI)
-- ▶️ [Como automatizar tarefas com JavaScript + Node.js](https://www.youtube.com/watch?v=SEULINKAQUI)
-- ▶️ [Desenvolvendo APIs REST com NestJS e MongoDB](https://www.youtube.com/watch?v=SEULINKAQUI)
-- ▶️ [Deploys automáticos com GitHub Actions](https://www.youtube.com/watch?v=SEULINKAQUI)
-
-> *Dica: personalize os links acima com os vídeos reais do seu canal ou futuros planejados.*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nickz1n&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickz1n&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=github-dark-blue&hide_border=true" />
+</div>
 
 ---
 
-## 🔥 Atividade Recente
+## 🏆 Achievements
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nickz1n&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
----
-
-## 📫 Contato direto
-
-📩 nickolaspessoalnasc@gmail.com  
-🌐 [nickzin.com](https://nickzin.com)
+- 🎓 **Certified AWS Solutions Architect**
+- 🏅 **Google Cloud Professional Developer**
+- 📚 **Technical Blog Writer** with 50K+ monthly readers
+- 🎯 **Open Source Contributor** with 100+ merged PRs
+- 💡 **Hackathon Winner** - Best Innovation Award 2024
 
 ---
 
-> "Feito é melhor que perfeito."  
-> *— alguém que entregou mais que prometeu.*
+## 📝 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+- [Building Scalable APIs with Node.js and TypeScript](https://yourblog.com/scalable-apis)
+- [React Performance Optimization: Advanced Techniques](https://yourblog.com/react-performance)
+- [Docker Best Practices for Full Stack Applications](https://yourblog.com/docker-best-practices)
+- [Database Design Patterns for Modern Applications](https://yourblog.com/database-patterns)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=PROJECT1&theme=github_dark)](https://github.com/YOURUSERNAME/PROJECT1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=PROJECT2&theme=github_dark)](https://github.com/YOURUSERNAME/PROJECT2)
+
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURPROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOURHANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!;Always+open+to+collaboration+💪" />
+</div>
+
+---
+
+<div align="center">
+  <sub>💡 <strong>Pro tip:</strong> Great code is like a good joke - if you have to explain it, it's probably not that good.</sub>
+</div>
+<img style="width:100%;height:3px;" src="./bar.gif" />
